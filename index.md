@@ -12,4 +12,8 @@ def add(a, b):
 result = add(5, 3)
 print(result)
 ```
+- [ ] Learn GitHub
+- [ ] Practice Markdown
+- [ ] Create my portfolio
+
 
